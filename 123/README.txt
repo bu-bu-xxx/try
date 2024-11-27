@@ -10,3 +10,31 @@ E:\SteamLibrary\steamapps\workshop\content\322330
 
 
 然后大功告成，其实我已经开了一些你之前配置过的mod，如果需要补充的不多，其实手动复制粘贴也挺快
+
+2730837741   bicycle
+1909012147  smusher
+
+Master and Caves/modoverrides.lua  
+
+["workshop-1909012147"]={ configuration_options={ Language="chinese" }, enabled=true },
+
+  ["workshop-2730837741"]={
+    configuration_options={
+      MOTOBIKE_CHARCOAL_RATE=1,
+      MOTOBIKE_DROP_CAN_ON_EXIT=false,
+      MOTOBIKE_FUEL_RATE=1,
+      MOTOBIKE_HEAT_RATE=1 
+    },
+    enabled=true 
+  },
+
+  ["workshop-2376883615"]={
+    configuration_options={
+      AIRPLANE_EASYLANDING=false,
+      AIRPLANE_EASYRECIPE=false,
+      AIRPLANE_FUELRATE=1,
+      AIRPLANE_UNBREAKABLE=true 
+    },
+    enabled=true 
+  },
+	
