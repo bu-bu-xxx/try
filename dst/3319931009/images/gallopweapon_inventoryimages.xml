@@ -1,0 +1,9 @@
+<Atlas>
+    <Texture filename="gallopweapon_inventoryimages.tex" />
+    <Elements>
+        <Element name="gallop_bloodaxe.tex" u1="0.00390625" u2="0.496094" v1="0.503906" v2="0.996094" />
+        <Element name="gallop_breaker.tex" u1="0.00390625" u2="0.496094" v1="0.00390625" v2="0.496094" />
+        <Element name="gallop_whip.tex" u1="0.503906" u2="0.996094" v1="0.503906" v2="0.996094" />
+    </Elements>
+    <StraightAlpha>false</StraightAlpha>
+</Atlas>

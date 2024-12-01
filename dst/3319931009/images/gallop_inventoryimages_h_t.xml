@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="gallop_inventoryimages_h_t.tex" />
+	<Elements>
+		<Element name="gallop_ad_destroyer.tex" u1="0.001" u2="0.249" v2="0.999" v1="0.501" variant="" />
+		<Element name="gallop_blackcutter.tex" u1="0.251" u2="0.499" v2="0.999" v1="0.501" variant="" />
+		<Element name="gallop_brokenking.tex" u1="0.001" u2="0.249" v2="0.499" v1="0.001" variant="" />
+		<Element name="gallop_hydra.tex" u1="0.251" u2="0.49509375" v2="0.499" v1="0.0088125" variant="" />
+		<Element name="gallop_tiamat.tex" u1="0.501" u2="0.74509375" v2="0.999" v1="0.5088125" variant="" />
+	</Elements>
+</Atlas>
