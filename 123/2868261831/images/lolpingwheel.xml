@@ -1,0 +1,12 @@
+<Atlas>
+    <Texture filename="lolpingwheel.tex" />
+    <Elements>
+        <Element name="choice_left.tex" u1="0.29345703125" u2="0.58544921875" v1="0.70751953125" v2="0.99951171875" />
+        <Element name="line.tex" u1="0.89501953125" u2="0.89697265625" v1="0.99462890625" v2="0.99951171875" />
+        <Element name="choice_lower.tex" u1="0.58642578125" u2="0.87841796875" v1="0.70751953125" v2="0.99951171875" />
+        <Element name="choice_right.tex" u1="0.00048828125" u2="0.29248046875" v1="0.41455078125" v2="0.70654296875" />
+        <Element name="arrow.tex" u1="0.87939453125" u2="0.89208984375" v1="0.98779296875" v2="0.99951171875" />
+        <Element name="choice_upper.tex" u1="0.29345703125" u2="0.58544921875" v1="0.41455078125" v2="0.70654296875" />
+        <Element name="choice_center.tex" u1="0.00048828125" u2="0.29248046875" v1="0.70751953125" v2="0.99951171875" />
+    </Elements>
+</Atlas>
